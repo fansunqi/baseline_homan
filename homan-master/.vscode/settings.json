@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/root/miniconda3/envs/phosa16_env/bin/python",
+    "jupyter.jupyterServerType": "local"
+}

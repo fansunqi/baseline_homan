@@ -1,0 +1,11 @@
+easydict
+ipdb
+loguru
+motpy==0.0.9
+moviepy
+opencv-python
+PyYAML==5.1
+scikit-image
+smplx
+transforms3d
+trimesh
